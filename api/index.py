@@ -9,7 +9,6 @@ def load_songs():
         with open("api/songs.json", 'r', encoding='utf-8') as playlist:
             songs = json.load(playlist)
 
-print(songs)
 
 
 app = Flask(__name__)
