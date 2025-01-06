@@ -3,8 +3,11 @@ import datetime
 import json
 from urllib.parse import unquote
 
-with open("api/songs.json", 'r', encoding='utf-8') as playlist:
-    songs = json.load(playlist)
+def load_songs():
+    global songs
+    if songs is None:
+        with open("api/songs.json", 'r', encoding='utf-8') as playlist:
+            songs = json.load(playlist)
 
 print(songs)
 
@@ -13,6 +16,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
+    load_songs()
     date = int(datetime.datetime.now().strftime("%d")) - 1
 
     sootd = songs['songs'][date]
