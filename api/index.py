@@ -30,3 +30,5 @@ def serve_audio(filename):
 def songsList():
     return send_from_directory('', 'songs.json')
 
+if __name__ == '__main__':
+    app.run(debug=True, port="8080")
