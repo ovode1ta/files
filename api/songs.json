@@ -1,0 +1,221 @@
+{
+  "songs": [
+    {
+      "name": "Ain't No Switch",
+      "artist": "Jripey, RW 5ive",
+      "albumCoverUrl": "https://i.scdn.co/image/ab67616d0000b2732c834e8215257a8427f9d139",
+      "songUrl": "https://open.spotify.com/track/4i9cF2TEi210ipGo0VTs2X?si=178b263bcdc54c02",
+      "album": "Euphoria"
+    },
+    {
+      "name": "Living Lavish",
+      "artist": "tana",
+      "albumCoverUrl": "https://i.scdn.co/image/ab67616d0000b273e0456226eb6abf7e8a903d19",
+      "songUrl": "https://open.spotify.com/track/07jRDsccmmp4BuX3eCjqye?si=b058c46c77fa49e7",
+      "album": "Living Lavish"
+    },
+    {
+      "name": "For Me",
+      "artist": "Loe Shimmy",
+      "albumCoverUrl": "https://i1.sndcdn.com/artworks-YiJpwDafbhUZ-0-t500x500.jpg",
+      "songUrl": "https://open.spotify.com/track/3blAqiAP9f44Kt3R7pQabP?si=2fd26f7fe9d04a6b",
+      "album": "Zombieland 2"
+    },
+    {
+      "name": "SOUTH OF FRANCE - REMIX",
+      "artist": "Future, Travis Scott",
+      "albumCoverUrl": "https://i.scdn.co/image/ab67616d0000b273c79929aa51144d4f9a691948",
+      "songUrl": "https://open.spotify.com/track/2C11qhXSCvVzGogwOTP6aZ?si=a5a2cea2e3c94c5b",
+      "album": "SOUTH OF FRANCE (REMIX)"
+    },
+    {
+      "name": "Why Would I Lack",
+      "artist": "Lil Yee",
+      "albumCoverUrl": "https://i.scdn.co/image/ab67616d0000b273fd22b9f3ac26fffc6ac0047e",
+      "songUrl": "https://open.spotify.com/track/38RCKi0MTcH3PyTirZlmM3?si=837ef264bfea4927",
+      "album": "Iron Sharpens Iron"
+    },
+    {
+      "name": "GTA",
+      "artist": "Future",
+      "albumCoverUrl": "https://i1.sndcdn.com/artworks-YNV4RAiyW4x7-0-t500x500.jpg",
+      "songUrl": "https://open.spotify.com/track/4XF9fk0STp9hx8xn5Suwpz?si=a82d2c5f39204893",
+      "album": "WE DON'T TRUST YOU"
+    },
+    {
+      "name": "Marble Floors",
+      "artist": "Summrs",
+      "albumCoverUrl": "https://i1.sndcdn.com/artworks-JW9cVXNJMAo1-0-t500x500.jpg",
+      "songUrl": "https://open.spotify.com/track/30S82dxldXsPbuj4ShyVBK?si=ef826dd5a9f7405c",
+      "album": "Marble Floors"
+    },
+    {
+      "name": "BLAMMER",
+      "artist": "LAZER DIM 700",
+      "albumCoverUrl": "https://i1.sndcdn.com/artworks-pUtmuGwwriHMUSGJ-5NydNg-t500x500.jpg",
+      "songUrl": "https://open.spotify.com/track/7vkgvZN3Pk5aFMmANYnrIn?si=1a3b4e4eb9614085",
+      "album": "DISASTER"
+    },
+    {
+      "name": "Hate Me",
+      "artist": "Lil Tjay",
+      "albumCoverUrl": "https://upload.wikimedia.org/wikipedia/en/0/0b/Lil_Yachty_%26_Ian_-_Hate_Me.jpg",
+      "songUrl": "https://open.spotify.com/track/0QpiyJbgWUjyAQNqjIA5tO?si=87e8c624f51148a4",
+      "album": "Hate Me"
+    },
+    {
+      "name": "AirBnb",
+      "artist": "ian",
+      "albumCoverUrl": "https://i1.sndcdn.com/artworks-srhnbzD0rBChRhL0-uv7Dew-t500x500.jpg",
+      "songUrl": "https://open.spotify.com/track/5HBS5TcpazucpyVtnupdQl?si=e21b0f1d3ef94c02",
+      "album": "Valedictorian [Deluxe]"
+    },
+    {
+      "name": "Fall Guys",
+      "artist": "Protect",
+      "albumCoverUrl": "https://i.scdn.co/image/ab67616d0000b2738402bcbc3263f073cd8e4ddc",
+      "songUrl": "placeholder_song_url",
+      "album": "Ball Hog For Life"
+    },
+    {
+      "name": "Do Not Disturb",
+      "artist": "Drake",
+      "albumCoverUrl": "https://i1.sndcdn.com/artworks-knOE2DkhPqw8-0-t500x500.jpg",
+      "songUrl": "https://open.spotify.com/track/2KvHC9z14GSl4YpkNMX384",
+      "album": "More Life"
+    },
+    {
+      "name": "Stories About My Brother",
+      "artist": "Drake",
+      "albumCoverUrl": "https://i1.sndcdn.com/artworks-g4AmrksnYhPt-0-t500x500.jpg",
+      "songUrl": "https://open.spotify.com/track/6pFV3CL0xT8C418wUKOgKJ",
+      "album": "For All The Dogs Scary Hours Edition"
+    },
+    {
+      "name": "Embarrassed (feat. Travis Scott)",
+      "artist": "Don Toliver",
+      "albumCoverUrl": "https://i.scdn.co/image/ab67616d0000b273be3f799633252cc6c0c09885",
+      "songUrl": "placeholder_song_url",
+      "album": "Love Sick (Deluxe)"
+    },
+    {
+      "name": "egotistical",
+      "artist": "hako, 800pts",
+      "albumCoverUrl": "https://i.scdn.co/image/ab67616d0000b27393bbb7ad730a5efeccc507bf",
+      "songUrl": "https://open.spotify.com/album/0Z1JayPehRQ93ad8UKM3zi",
+      "album": "egotistical"
+    },
+    {
+      "name": "Laugh Now Cry Later (feat. Lil Durk)",
+      "artist": "Drake",
+      "albumCoverUrl": "https://i.scdn.co/image/ab67616d0000b27352c75ed37313b889447011ef",
+      "songUrl": "https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43",
+      "album": "Laugh Now Cry Later"
+    },
+    {
+      "name": "TIL FURTHER NOTICE (feat. James Blake &  Savage)",
+      "artist": "Travis Scott",
+      "albumCoverUrl": "https://i.scdn.co/image/ab67616d0000b273881d8d8378cd01099babcd44",
+      "songUrl": "https://open.spotify.com/track/76gcXhY3Zv6wW0BTe9nHJo",
+      "album": "UTOPIA"
+    },
+    {
+      "name": "GET MONEY",
+      "artist": "Nemzzz",
+      "albumCoverUrl": "https://i.scdn.co/image/ab67616d0000b27328b4eaa6b95cb08edc6a979f",
+      "songUrl": "https://open.spotify.com/track/7ayvssCGdGuhpZVoHLTOMO",
+      "album": "DO NOT DISTURB (Deluxe)"
+    },
+    {
+      "name": "Taliban",
+      "artist": "Yeat",
+      "albumCoverUrl": "https://i.scdn.co/image/ab67616d0000b27372b69f1f356613717909d6db",
+      "songUrl": "https://open.spotify.com/track/0MxEnGqgMlVZn0lD1k61kR",
+      "album": "2 Alivë"
+    },
+    {
+      "name": "Louis V Everything!",
+      "artist": "Autumn!",
+      "albumCoverUrl": "https://i.scdn.co/image/ab67616d0000b2739cdd4a921ed29791b3018550",
+      "songUrl": "https://open.spotify.com/album/59TP9qgdbF9qPaoopKLyb9",
+      "album": "Louis V Everything!"
+    },
+    {
+      "name": "FYP",
+      "artist": "Nemzzz",
+      "albumCoverUrl": "https://i.scdn.co/image/ab67616d0000b273ffd064715774136d776dbe94",
+      "songUrl": "https://open.spotify.com/track/6YtWDeoQ5lJCkQ3uAQ1gZg",
+      "album": "FYP"
+    },
+    {
+      "name": "Solid (feat. Drake)",
+      "artist": "Young Stoner Life, Young Thug, Gunna",
+      "albumCoverUrl": "https://i.scdn.co/image/ab67616d0000b2737939ff11c32b23060cc22bb5",
+      "songUrl": "https://open.spotify.com/track/6rTInqW3YECMkQsBEHw4sd",
+      "album": "Slime Language 2"
+    },
+    {
+      "name": "love hate",
+      "artist": "xaviersobased",
+      "albumCoverUrl": "https://i.scdn.co/image/ab67616d0000b273af96bc2a3cd92b79d921f5ab",
+      "songUrl": "https://open.spotify.com/track/0BWhRDZajVPoO3qaLbeCDJ",
+      "album": "with 2 (hosted by d9lton)"
+    },
+    {
+      "name": "Long Time - Intro",
+      "artist": "Playboi Carti",
+      "albumCoverUrl": "https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194",
+      "songUrl": "https://open.spotify.com/track/4IO2X2YoXoUMv0M2rwomLC",
+      "album": "Die Lit"
+    },
+    {
+      "name": "ASTROTHUNDER",
+      "artist": "Travis Scott",
+      "albumCoverUrl": "https://i.scdn.co/image/ab67616d0000b273072e9faef2ef7b6db63834a3",
+      "songUrl": "https://open.spotify.com/track/4MXhiYIRDMGAuvZc5IFTwC",
+      "album": "ASTROWORLD"
+    },
+    {
+      "name": "Young Metro",
+      "artist": "Young Stoner Life, Young Thug",
+      "albumCoverUrl": "https://i.scdn.co/image/ab67616d0000b273a46b07c291e6dfdee13b3ee8",
+      "songUrl": "https://open.spotify.com/track/3OxL6MuctgZp1e0zxoAZhH",
+      "album": "WE DON'T TRUST YOU"
+    },
+    {
+      "name": "Super Urus",
+      "artist": "LUCKI",
+      "albumCoverUrl": "https://i.scdn.co/image/ab67616d0000b273d60e6480bfb88a0ff8f824c0",
+      "songUrl": "https://open.spotify.com/album/1cL86ZgHUK02aGXz75Q2rh",
+      "album": "Super Urus"
+    },
+    {
+      "name": "Sessions",
+      "artist": "Sharkey, LUCKI",
+      "albumCoverUrl": "https://i.scdn.co/image/ab67616d0000b273ec326295a9404dc40ec0004a",
+      "songUrl": "https://open.spotify.com/track/2GtzWw3lNpIgog4TNoxBny",
+      "album": "Sessions"
+    },
+    {
+      "name": "U.G.K",
+      "artist": "LUCKI, F1LTHY",
+      "albumCoverUrl": "https://i.scdn.co/image/ab67616d0000b273d0896c7e9b84d1c06e35771b",
+      "songUrl": "https://open.spotify.com/track/3RQvXGerVBfhONIlE44xKo",
+      "album": "WAKE UP LUCKI"
+    },
+    {
+      "name": "AGIRLISAGUN ︻デ═一",
+      "artist": "Noah, Yung Wolf",
+      "albumCoverUrl": "https://m.media-amazon.com/images/I/51pMBQZ12iL._UXNaN_FMjpg_QL85_.jpg",
+      "songUrl": "placeholder_song_url",
+      "album": "AGIRLISAGUN ︻デ═一"
+    },
+    {
+      "name": "PARASAIL (feat. Yung Lean & Dave Chappelle)",
+      "artist": "Young Stoner Life, Young Thug",
+      "albumCoverUrl": "https://i.scdn.co/image/ab67616d0000b273881d8d8378cd01099babcd44",
+      "songUrl": "placeholder_song_url",
+      "album": "UTOPIA"
+    }
+  ]
+}
